@@ -189,7 +189,11 @@ endmodule
 ### Testbench
 - `Fixed_Point_Unit_Testbench.v`: Contains test cases to verify the functionality of the FPU, including addition, subtraction, multiplication, and square root operations.
 
-### Simulation
+### Simulation and Waveforms 
+![image](https://github.com/kasrajb/LUMOS_Jabbari/assets/80218100/528004f7-8717-4728-8ace-def29afa2c3f)
+![image](https://github.com/kasrajb/LUMOS_Jabbari/assets/80218100/93dbd8da-2c3e-4d50-aabe-d7e4d8d0ff1f)
+![image](https://github.com/kasrajb/LUMOS_Jabbari/assets/80218100/f2ad23a4-6ff3-4a98-a4e1-81597ccf989d)
+![image](https://github.com/kasrajb/LUMOS_Jabbari/assets/80218100/1ffd843a-24a2-419c-8ac8-9a50ae00fe60)
 
 
 ### References
